@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+
+  <channel>
+    <title>Tech News</title>
+    <link>http://www.technews.com</link>
+    <description>Las ultimas novedades tecnologicas</description>
+    <item>
+      <title>Correccion de errores</title>
+      <link>http://www.technews.com/correccion-de-errores</link>
+      <description>Correccion de errores en el software</description>
+      <pubDate>Thu, 01 Oct 2026 21:00:00 GMT</pubDate>
+      <guid>http://www.technews.com/correccion-de-errores</guid>
+    </item>
+    <item>
+      <title>Nuevo lanzamiento de producto</title>
+      <link>http://www.technews.com/nuevo-lanzamiento</link>
+      <description>Lanzamiento de un nuevo producto tecnologico</description>
+      <pubDate>Fri, 02 Oct 2026 05:00:00 GMT</pubDate>
+      <guid>http://www.technews.com/nuevo-lanzamiento</guid>
+    </item>
+    <item>
+      <title>Actualizacion de seguridad</title>
+      <link>http://www.technews.com/actualizacion-de-seguridad</link>
+      <description>Actualizacion de seguridad para proteger los datos de los usuarios</description>
+      <pubDate>Sat, 03 Oct 2026 15:00:00 GMT</pubDate>
+      <guid>http://www.technews.com/actualizacion-de-seguridad</guid>
+    </item>
+  </channel>
+</rss>
